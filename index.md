@@ -5,6 +5,13 @@ normal text
 
    asdf asdf
 
+
+``` python
+import numpy as np
+x = np.ones((2,3))
+```
+
+
   asdadsf
   adsfjasdjfjaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa
 
